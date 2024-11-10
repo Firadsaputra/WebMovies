@@ -1,0 +1,4 @@
+Web Penunjang Pembuatan Aplikasi web ini :
+https://boxicons.com/
+https://swiperjs.com/demos (https://swiperjs.com/demos#autoplay): mengambil 2 file = swiper-bundle.min.css & swiper-bundle.min.js
+Note : untuk mendapatkan source code di swiperjs klik ikon github yang ada pada wibsite
